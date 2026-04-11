@@ -21,7 +21,7 @@
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-stanton | what happens after an arrest in Stanton | Bail Process | ✅ published |
-| 2026-04-09 | Thu | how-bail-bonds-work-stanton | how do bail bonds work in Stanton | Bail Bonds 101 | ⬜ |
+| 2026-04-09 | Thu | how-bail-bonds-work-stanton | how do bail bonds work in Stanton | Bail Bonds 101 | ✅ published |
 | 2026-04-10 | Fri | how-much-is-bail-stanton | how much is bail in Orange County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-stanton | how to get someone out of jail in Stanton | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-stanton | domestic violence bail bonds Stanton | DV Bail | ⬜ |
