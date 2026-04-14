@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-stanton | what happens after an arrest in Stanton | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-stanton | how do bail bonds work in Stanton | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-stanton | how much is bail in Orange County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-stanton | how much is bail in Orange County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-stanton | how to get someone out of jail in Stanton | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-stanton | domestic violence bail bonds Stanton | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-stanton | DUI bail bonds Stanton | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-stanton | felony bail bonds Stanton | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-stanton-bail-bonds | stanton bail bonds | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-stanton | drug possession bail Stanton | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-stanton | can you bail someone out at night in Stanton | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-stanton | how long does it take to bail someone out of OC Central Jail (Theo Lacy) | Timeline | ⬜ |
