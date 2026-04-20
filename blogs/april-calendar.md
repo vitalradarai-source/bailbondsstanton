@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-stanton | how much does a bail bondsman charge in Stanton | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-stanton | bail bond payment plan Stanton | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-stanton | jail booking process at OC Central Jail (Theo Lacy) | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-stanton | how to find someone in jail Stanton | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-stanton | what to expect at arraignment Central Justice Center | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-stanton | bail hearing process in Orange County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-stanton | warrant bail bonds Stanton | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-stanton | what happens if you miss court date Stanton | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-stanton | assault and battery bail bonds Stanton | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-stanton | theft and burglary bail bonds Stanton | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-stanton | how to choose a bail bondsman in Stanton | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-stanton | what does a bail bond cosigner do Stanton | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-stanton | bail conditions and restrictions Orange County | Conditions | ⬜ |
+| 2026-04-21 | Tue | felony-vs-misdemeanor-bail-stanton | felony vs misdemeanor bail Stanton | Charge Types | ⬜ |
+| 2026-04-22 | Wed | weapon-charges-bail-stanton | weapon charges bail bonds Stanton | Weapon Charges | ⬜ |
+| 2026-04-23 | Thu | immigration-hold-bail-stanton | ICE hold bail questions Stanton | Immigration | ⬜ |
+| 2026-04-24 | Fri | probation-violation-bail-stanton | probation violation bail Stanton | Probation | ⬜ |
+| 2026-04-25 | Sat | bench-warrant-stanton | bench warrant bail bonds Stanton | Bench Warrant | ⬜ |
+| 2026-04-26 | Sun | restraining-order-bail-stanton | restraining order and bail Stanton | Restraining Order | ⬜ |
+| 2026-04-27 | Mon | bail-bond-cost-stanton | how much does a bail bondsman charge in Stanton | Costs | ⬜ |
+| 2026-04-28 | Tue | bail-bond-payment-plan-stanton | bail bond payment plan Stanton | Payment Plans | ⬜ |
+| 2026-04-29 | Wed | jail-booking-process-stanton | jail booking process in Stanton | Jail Process | ⬜ |
+| 2026-04-30 | Thu | inmate-search-stanton | how to find someone in jail Stanton | Inmate Search | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
